@@ -1,0 +1,401 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Feedback\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-28 15:58+0200\n"
+"PO-Revision-Date: 2015-04-07 18:05+0100\n"
+"Last-Translator: Nabil Kadimi <nabil@kadimi-x-no-spam-x.com>\n"
+"Language-Team: PressApps\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_n:1,2;_x:1,2c;_ex:1,2x;esc_attr__;esc_attr_e;_;"
+"gettext;gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: admin/class-pressapps-feedback-admin.php:85
+#: admin/class-pressapps-feedback-admin.php:86
+#: admin/class-pressapps-feedback-admin.php:88
+msgid "Surveys"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:87
+msgid "Feedback"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:89
+msgid "Add New"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:90
+msgid "Add New Survey"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:91
+msgid "New Survey"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:92
+msgid "Edit Survey"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:93
+msgid "View Survey"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:94
+msgid "All Surveys"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:95
+msgid "Search Survey"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:96
+msgid "Parent Survey:"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:97
+msgid "No surveys found."
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:98
+msgid "No surveys found in Trash."
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:103
+msgid "Description."
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:151
+msgid "Shortcode"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:169
+msgid "Settings"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:184
+msgid "Help"
+msgstr ""
+
+#: admin/class-pressapps-feedback-admin.php:298
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:79
+msgid "There are no surveys available."
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:79
+#: admin/partials/pressapps-feedback-admin-reports.php:263
+msgid "Create new Surveys"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:87
+msgid "Survey"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:100
+msgid "Post"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:207
+msgid "No feedbacks to show from"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:246
+#: admin/partials/pressapps-feedback-admin-feedback.php:257
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-feedback.php:367
+msgid "Are you sure you want to delete all feedback for this survey?"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:12
+msgid "Question"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:13
+msgid "Choices"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:14
+msgid "Multiple Choice"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:15
+msgid "Required"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:16
+msgid "Positive"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:17
+msgid "Negative"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:18
+msgid "Rating Range"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:19
+msgid "Placeholder Text"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:20
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:76
+msgid "Confirmation"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:47
+msgid "Positive/Negative"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:52
+msgid "Choice"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:57
+msgid "Rating"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:62
+msgid "Email"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:67
+msgid "Text"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:72
+msgid "Comment"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:84
+msgid "Add sample questions."
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-metabox-survey.php:85
+msgid "No survey questions to show. "
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:243
+msgid "High to Low"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:244
+msgid "Low to High"
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:252
+msgid "Select a question to show the rating data."
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:263
+msgid "There are no surveys available to display reports."
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:383
+msgid "There are no feedbacks engagement data to show."
+msgstr ""
+
+#: admin/partials/pressapps-feedback-admin-reports.php:553
+msgid "No data available."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:197
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:202
+msgid "Default options restored."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:221
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:405
+msgid "Settings saved."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:406
+msgid "Save Changes"
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:406
+msgid "Saving..."
+msgstr ""
+
+#: admin/skelet/classes/framework.class.php:407
+msgid "Restore"
+msgstr ""
+
+#: admin/skelet/classes/options.class.php:126
+msgid "CONFIG"
+msgstr ""
+
+#: admin/skelet/classes/options.class.php:132
+msgid "USAGE"
+msgstr ""
+
+#: admin/skelet/classes/options.class.php:138
+msgid "VALUE"
+msgstr ""
+
+#: admin/skelet/classes/options.class.php:214
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: admin/skelet/classes/shortcode.class.php:83
+#: admin/skelet/fields/textarea/textarea.php:29
+msgid "Add Shortcode"
+msgstr ""
+
+#: admin/skelet/fields/background/background.php:32
+#: admin/skelet/fields/background/background.php:33
+#: admin/skelet/fields/upload/upload.php:25
+#: admin/skelet/fields/upload/upload.php:26
+msgid "Upload"
+msgstr ""
+
+#: admin/skelet/fields/background/background.php:34
+#: admin/skelet/fields/upload/upload.php:27
+msgid "Use Image"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:22
+msgid "Import a Backup"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:23
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:28
+msgid "Export and Download Backup"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:29
+msgid "or"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:30
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: admin/skelet/fields/backup/backup.php:31
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: admin/skelet/fields/gallery/gallery.php:23
+msgid "Add Gallery"
+msgstr ""
+
+#: admin/skelet/fields/gallery/gallery.php:24
+msgid "Edit Gallery"
+msgstr ""
+
+#: admin/skelet/fields/gallery/gallery.php:25
+msgid "Clear"
+msgstr ""
+
+#: admin/skelet/fields/group/group.php:23
+msgid "Adding"
+msgstr ""
+
+#: admin/skelet/fields/group/group.php:45
+#: admin/skelet/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: admin/skelet/fields/icon/icon.php:27
+#: admin/skelet/functions/actions.php:55
+msgid "Add Icon"
+msgstr ""
+
+#: admin/skelet/fields/icon/icon.php:28
+msgid "Remove Icon"
+msgstr ""
+
+#: admin/skelet/fields/image/image.php:24
+msgid "Add Image"
+msgstr ""
+
+#: admin/skelet/fields/sorter/sorter.php:26
+msgid "Enabled Modules"
+msgstr ""
+
+#: admin/skelet/fields/sorter/sorter.php:27
+msgid "Disabled Modules"
+msgstr ""
+
+#: admin/skelet/fields/switcher/switcher.php:22
+msgid "on"
+msgstr ""
+
+#: admin/skelet/fields/switcher/switcher.php:22
+msgid "off"
+msgstr ""
+
+#: admin/skelet/fields/typography/typography.php:75
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: admin/skelet/fields/typography/typography.php:81
+msgid "Google Fonts"
+msgstr ""
+
+#: admin/skelet/fields/typography/typography.php:109
+#: admin/skelet/functions/actions.php:30
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: admin/skelet/functions/actions.php:56
+msgid "Search a Icon..."
+msgstr ""
+
+#: admin/skelet/functions/actions.php:57
+msgid "Loading..."
+msgstr ""
+
+#: admin/skelet/functions/helpers.php:50
+msgid "This field class is not available!"
+msgstr ""
+
+#: admin/skelet/functions/helpers.php:610
+msgid "Select media"
+msgstr ""
+
+#: admin/skelet/functions/helpers.php:659
+#, php-format
+msgid "The option type <code>%s</code> is not yet implemented"
+msgstr ""
+
+#: admin/skelet/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: admin/skelet/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: admin/skelet/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: public/class-pressapps-feedback-public.php:219
+msgid "Thank you for your feedback!"
+msgstr ""

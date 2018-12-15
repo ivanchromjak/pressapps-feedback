@@ -1,0 +1,191 @@
+/**
+ * Global
+ */
+body[class^="pressapps_page_"] #wpcontent, body[class*="pressapps_page_"] #wpcontent {
+  padding-left: 0;
+}
+
+/**
+ * Header
+ */
+
+.pa-header {
+  padding: 35px 25px;
+  text-align: center;
+}
+.pa-header h1, .pa-subheader {
+  margin: 0;
+  font-size: 2.5em;
+  font-weight: 300;
+  line-height: 1.4em;
+}
+.pa-subheader {
+  text-align: center;
+  padding: 65px 25px 35px;
+}
+.pa-header p {
+  margin: 12px 0 10px;
+  font-size: 14px;
+}
+
+/**
+ * Products page
+ */
+#pa-products {
+  margin-bottom: 25px;
+  overflow: hidden;
+}
+
+#pa-products .pa-item-wrapper {
+  width: 44%;
+  margin-left: 4%;
+  margin-bottom: 6%;
+	float:left;
+}
+#pa-products .pa-item {
+
+}
+.pa-item .button-primary {
+  border-color: #00a0d2;
+}
+#pa-products .pa-item h3 {
+  text-align: center;
+  margin: 0 0 25px;
+  font-weight: 400;
+  line-height: 1.4em;
+  height: 24px;
+}
+#pa-products .pa-item img {
+	max-width: 100%;
+	height: auto;
+}
+#pa-products .pa-item p {
+  text-align: center;
+  margin: 25px 0 0;
+}
+#pa-products .pa-item .marked-purchased{
+  font-size: 12px;
+  float: right;
+  padding: 2px 5px 2px 5px;
+  background: #5CCF49;
+  color: #fff;
+  border-radius: 3px;
+  margin-left: 3px;
+}
+
+/**
+ * Support page
+ */
+.pa-boxes {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+.pa-boxes li {
+  display: inline-block;
+  width: 28%;
+  max-width: 400px;
+  margin: 0 4% 0 0;
+  padding-bottom: .5em;
+  vertical-align: top;
+  line-height: 1.5;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0;
+  text-align: center;
+  background: #fff;
+  border: solid 1px #e6e6e6;
+  box-shadow: 0 0 30px #f1f1f1;
+  -webkit-transition: background-color .14s ease-out;
+  -moz-transition: background-color .14s ease-out;
+  -ms-transition: background-color .14s ease-out;
+  -o-transition: background-color .14s ease-out;
+  transition: background-color .14s ease-out;
+}
+.pa-boxes.pa-wide li {
+  width: 45%;
+  margin: 0;
+  max-width: 450px;
+}
+.pa-boxes li:hover {
+  border-color: #ccc;
+  box-shadow:0 0 10px #e4e4e4;
+}
+.pa-boxes li:last-child {
+  padding-bottom: 0;
+  margin-right: 0;
+}
+.pa-boxes li a {
+  padding: 35px 25px;
+  text-decoration: none;
+  display: block;
+  color: #242424;
+}
+.pa-boxes li a:hover {
+}
+.pa-boxes i {
+  font-size: 42px;
+  color: #00a0d2;
+}
+.pa-boxes h3 {
+  font-size: 22px;
+  font-weight: 400;
+  color: #00a0d2;
+}
+.pa-boxes p {
+  margin: 15px 0 0;
+  font-size: 14px;
+}
+
+.pa-cta, .pa-feedback {
+  text-align: center;
+  padding: 0 40px;
+}
+.pa-cta p, .pa-feedback p {
+  font-size: 14px;
+  margin: -15px 0 20px;
+}
+.btn-cta {
+  display: inline-block;
+  margin-top: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  font-weight: 500;
+  font-size: 1.1em;
+  line-height: 1em;
+  padding: 1.5em 2.5em 1.4em;
+  border-radius: 2px;
+  color: #fff;
+  background-color: #00a0d2;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.3);
+  transition: background-color .1s ease-out,color .14s ease-out;
+  transition: box-shadow 0.1s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.btn-cta:hover, .btn-cta:focus {
+  background-color: #0091cd;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.3);
+  color: #fff;
+}
+.pa-feedback {
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width: 678px) {
+  .pa-boxes {
+    padding: 15px;
+  }
+  .pa-boxes li {
+    width: 100%;
+    margin: 0 0 3% 0;
+  }
+  .pa-boxes.pa-wide li {
+    width: 100%;
+  }
+  .pa-faq ul {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+}
